@@ -1,6 +1,6 @@
 [submodule "learning-cxx"]
 	path = learning-cxx
-	url = https://github.com/LearningInfiniTensor/learning-cxx
+	url = https://github.com/CookLight/learning-cxx
 [submodule "rustlings"]
 	path = rustlings
-	url = https://github.com/rust-lang/rustlings
+	url = https://github.com/CookLight/rustlings
