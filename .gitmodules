@@ -1,3 +1,6 @@
 [submodule "rustlings"]
 	path = rustlings
 	url = https://github.com/CookLight/rustlings
+[submodule "learning-cxx"]
+	path = learning-cxx
+	url = https://github.com/CookLight/learning-cxx
